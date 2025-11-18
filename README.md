@@ -4,7 +4,7 @@
 
 <h2>👋 关于我</h2>
 
-你好, 我是 **<font color="#03A9F4">mortal</font>**, 一名 **<font color="#F31199">研发工程师</font>** !  🧐,擅长golang、python开发，也有rust、java的开发经验,对vue 前端技术略懂，也算是个全栈啦
+你好, 我是 **<font color="#03A9F4">zouyx</font>**, 一名 **<font color="#F31199">研发工程师</font>** !  🧐,擅长golang、python开发，也有rust、java的开发经验,对vue 前端技术略懂，也算是个全栈啦
 
 <h2>🏆 GitHub 活动</h2>
 
