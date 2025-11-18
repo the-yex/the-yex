@@ -4,15 +4,15 @@
 
 <h2>👋 关于我</h2>
 
-你好, 我是 **<font color="#03A9F4">zouyx</font>**, 一名 **<font color="#F31199">研发工程师</font>** !  🧐,擅长golang、python开发，也有rust、java的开发经验,对vue 前端技术略懂，也算是个全栈啦
+你好, 我是 **<font color="#03A9F4">zouyx</font>**, 一名 **<font color="#F31199">研发工程师</font>** !  🧐,擅长golang、python开发，也有rust、java的开发经验，前端技术只会 vue3 +vite+ts 
 
 <h2>🏆 GitHub 活动</h2>
 
 <p>
-	<img align="left" src="https://github-profile-trophy.vercel.app/?username=code-innovator-zyx&theme=onedark&column=-1&margin-w=15" />
+	<img align="left" src="https://github-profile-trophy.vercel.app/?username=the-yex&theme=onedark&column=-1&margin-w=15" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-innovator-zyx&theme=merko&custom_title=code-innovator-zyx%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/code-innovator-zyx)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=the-yex&theme=merko&custom_title=the-yex%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/the-yex)
 
 <h2>🔧 语言和工具</h2>
 
