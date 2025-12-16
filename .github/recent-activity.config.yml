@@ -1,0 +1,7 @@
+settings:
+  username: "the-yex"
+  commit_msg: "⚡ Update recent activity"
+  max_lines: 5
+  readme_file: "README.md"
+  disabled_events:
+    - "comments"
