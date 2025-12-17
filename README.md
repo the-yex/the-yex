@@ -211,6 +211,13 @@ To enable Spotify integration:
 
 ---
 
+## 📌 Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
