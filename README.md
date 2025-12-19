@@ -214,7 +214,7 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [the-yex/the-yex](https://github.com/the-yex/the-yex)<br>
+1. ❗️ Opened issue [#175](https://github.com/MetaCubeX/ClashX.Meta/issues/175) in [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)<br>
 2. ⬆️ Pushed undefined commit(s) to [the-yex/the-yex](https://github.com/the-yex/the-yex)<br>
 3. ⬆️ Pushed undefined commit(s) to [the-yex/the-yex](https://github.com/the-yex/the-yex)<br>
 4. ⬆️ Pushed undefined commit(s) to [the-yex/the-yex](https://github.com/the-yex/the-yex)<br>
