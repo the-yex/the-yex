@@ -214,10 +214,10 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/the-yex/flashtext/issues/1) in [the-yex/flashtext](https://github.com/the-yex/flashtext)<br>
-2. ❗️ Opened issue [#175](https://github.com/MetaCubeX/ClashX.Meta/issues/175) in [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)<br>
-3. ⬆️ Pushed undefined commit(s) to [the-yex/the-yex](https://github.com/the-yex/the-yex)<br>
-4. ⬆️ Pushed undefined commit(s) to [the-yex/the-yex](https://github.com/the-yex/the-yex)<br>
+1. ⬆️ Pushed undefined commit(s) to [the-yex/flashtext](https://github.com/the-yex/flashtext)<br>
+2. ✔️ Closed issue [#2](https://github.com/the-yex/flashtext/issues/2) in [the-yex/flashtext](https://github.com/the-yex/flashtext)<br>
+3. ❗️ Opened issue [#1](https://github.com/the-yex/flashtext/issues/1) in [the-yex/flashtext](https://github.com/the-yex/flashtext)<br>
+4. ❗️ Opened issue [#175](https://github.com/MetaCubeX/ClashX.Meta/issues/175) in [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)<br>
 5. ⬆️ Pushed undefined commit(s) to [the-yex/the-yex](https://github.com/the-yex/the-yex)<br>
 <!--RECENT_ACTIVITY:end-->
 
