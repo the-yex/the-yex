@@ -214,11 +214,11 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.1.0](https://github.com/the-yex/flashtext/releases/tag/v1.1.0) in [the-yex/flashtext](https://github.com/the-yex/flashtext)<br>
-2. ⬆️ Pushed undefined commit(s) to [the-yex/go-behavior](https://github.com/the-yex/go-behavior)<br>
-3. ⬆️ Pushed undefined commit(s) to [the-yex/flashtext](https://github.com/the-yex/flashtext)<br>
-4. ✔️ Closed issue [#2](https://github.com/the-yex/flashtext/issues/2) in [the-yex/flashtext](https://github.com/the-yex/flashtext)<br>
-5. ❗️ Opened issue [#1](https://github.com/the-yex/flashtext/issues/1) in [the-yex/flashtext](https://github.com/the-yex/flashtext)<br>
+1. ⬆️ Pushed undefined commit(s) to [the-yex/go-behavior](https://github.com/the-yex/go-behavior)<br>
+2. ✌️ Released [v1.1.0](https://github.com/the-yex/flashtext/releases/tag/v1.1.0) in [the-yex/flashtext](https://github.com/the-yex/flashtext)<br>
+3. ⬆️ Pushed undefined commit(s) to [the-yex/go-behavior](https://github.com/the-yex/go-behavior)<br>
+4. ⬆️ Pushed undefined commit(s) to [the-yex/flashtext](https://github.com/the-yex/flashtext)<br>
+5. ✔️ Closed issue [#2](https://github.com/the-yex/flashtext/issues/2) in [the-yex/flashtext](https://github.com/the-yex/flashtext)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
