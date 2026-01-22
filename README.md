@@ -214,11 +214,11 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.2.0](https://github.com/the-yex/gvm/releases/tag/v1.2.0) in [the-yex/gvm](https://github.com/the-yex/gvm)<br>
-2. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
+1. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
+2. ✌️ Released [v1.2.0](https://github.com/the-yex/gvm/releases/tag/v1.2.0) in [the-yex/gvm](https://github.com/the-yex/gvm)<br>
 3. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
-4. ⬆️ Pushed undefined commit(s) to [the-yex/go-behavior](https://github.com/the-yex/go-behavior)<br>
-5. ✌️ Released [v1.1.0](https://github.com/the-yex/flashtext/releases/tag/v1.1.0) in [the-yex/flashtext](https://github.com/the-yex/flashtext)<br>
+4. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
+5. ⬆️ Pushed undefined commit(s) to [the-yex/go-behavior](https://github.com/the-yex/go-behavior)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
