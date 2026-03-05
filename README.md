@@ -217,7 +217,6 @@ To enable Spotify integration:
 1. ⬆️ Pushed undefined commit(s) to [the-yex/article-maker](https://github.com/the-yex/article-maker)<br>
 2. ⬆️ Pushed undefined commit(s) to [the-yex/article-maker](https://github.com/the-yex/article-maker)<br>
 3. ⬆️ Pushed undefined commit(s) to [the-yex/article-maker](https://github.com/the-yex/article-maker)<br>
-4. ⬆️ Pushed undefined commit(s) to [the-yex/article-maker](https://github.com/the-yex/article-maker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
