@@ -214,10 +214,11 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#37022](https://github.com/openclaw/openclaw/issues/37022) in [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
-2. ⬆️ Pushed undefined commit(s) to [the-yex/article-maker](https://github.com/the-yex/article-maker)<br>
+1. 🔱 Forked [the-yex/idea-claude-code-gui](https://github.com/the-yex/idea-claude-code-gui) from [zhukunpenglinyutong/idea-claude-code-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui)<br>
+2. ❗️ Opened issue [#37022](https://github.com/openclaw/openclaw/issues/37022) in [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
 3. ⬆️ Pushed undefined commit(s) to [the-yex/article-maker](https://github.com/the-yex/article-maker)<br>
 4. ⬆️ Pushed undefined commit(s) to [the-yex/article-maker](https://github.com/the-yex/article-maker)<br>
+5. ⬆️ Pushed undefined commit(s) to [the-yex/article-maker](https://github.com/the-yex/article-maker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
