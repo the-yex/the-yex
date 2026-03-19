@@ -214,11 +214,11 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [the-yex/agency-agents-zh](https://github.com/the-yex/agency-agents-zh) from [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)<br>
-2. 🔱 Forked [the-yex/agency-agents](https://github.com/the-yex/agency-agents) from [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
-3. 🔱 Forked [the-yex/idea-claude-code-gui](https://github.com/the-yex/idea-claude-code-gui) from [zhukunpenglinyutong/idea-claude-code-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui)<br>
-4. ❗️ Opened issue [#37022](https://github.com/openclaw/openclaw/issues/37022) in [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
-5. ⬆️ Pushed undefined commit(s) to [the-yex/article-maker](https://github.com/the-yex/article-maker)<br>
+1. ⭐ Starred [the-yex/openclaw-writting-team](https://github.com/the-yex/openclaw-writting-team)<br>
+2. ⭐ Starred [adoresever/graph-memory](https://github.com/adoresever/graph-memory)<br>
+3. 🔱 Forked [the-yex/agency-agents-zh](https://github.com/the-yex/agency-agents-zh) from [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)<br>
+4. 🔱 Forked [the-yex/agency-agents](https://github.com/the-yex/agency-agents) from [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
+5. 🔱 Forked [the-yex/idea-claude-code-gui](https://github.com/the-yex/idea-claude-code-gui) from [zhukunpenglinyutong/idea-claude-code-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
