@@ -214,11 +214,11 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#14](https://github.com/adoresever/graph-memory/issues/14) in [adoresever/graph-memory](https://github.com/adoresever/graph-memory)<br>
-2. ⭐ Starred [the-yex/openclaw-writting-team](https://github.com/the-yex/openclaw-writting-team)<br>
-3. ⭐ Starred [adoresever/graph-memory](https://github.com/adoresever/graph-memory)<br>
-4. 🔱 Forked [the-yex/agency-agents-zh](https://github.com/the-yex/agency-agents-zh) from [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)<br>
-5. 🔱 Forked [the-yex/agency-agents](https://github.com/the-yex/agency-agents) from [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
+1. ⭐ Starred [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)<br>
+2. ❗️ Opened issue [#14](https://github.com/adoresever/graph-memory/issues/14) in [adoresever/graph-memory](https://github.com/adoresever/graph-memory)<br>
+3. ⭐ Starred [the-yex/openclaw-writting-team](https://github.com/the-yex/openclaw-writting-team)<br>
+4. ⭐ Starred [adoresever/graph-memory](https://github.com/adoresever/graph-memory)<br>
+5. 🔱 Forked [the-yex/agency-agents-zh](https://github.com/the-yex/agency-agents-zh) from [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
