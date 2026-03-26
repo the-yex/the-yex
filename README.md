@@ -214,11 +214,11 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5](https://github.com/epiral/weixin-bot/issues/5) in [epiral/weixin-bot](https://github.com/epiral/weixin-bot)<br>
+1. ⬆️ Pushed undefined commit(s) to [the-yex/wechat-ilink-sdk](https://github.com/the-yex/wechat-ilink-sdk)<br>
 2. ⬆️ Pushed undefined commit(s) to [the-yex/wechat-ilink-sdk](https://github.com/the-yex/wechat-ilink-sdk)<br>
 3. ⬆️ Pushed undefined commit(s) to [the-yex/wechat-ilink-sdk](https://github.com/the-yex/wechat-ilink-sdk)<br>
 4. ⬆️ Pushed undefined commit(s) to [the-yex/wechat-ilink-sdk](https://github.com/the-yex/wechat-ilink-sdk)<br>
-5. ⭐ Starred [the-yex/wechat-ilink-sdk](https://github.com/the-yex/wechat-ilink-sdk)<br>
+5. ⬆️ Pushed undefined commit(s) to [the-yex/wechat-ilink-sdk](https://github.com/the-yex/wechat-ilink-sdk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
