@@ -214,11 +214,11 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
-2. ✌️ Released [v1.2.1](https://github.com/the-yex/gvm/releases/tag/v1.2.1) in [the-yex/gvm](https://github.com/the-yex/gvm)<br>
+1. ✌️ Released [v1.3.0](https://github.com/the-yex/gvm/releases/tag/v1.3.0) in [the-yex/gvm](https://github.com/the-yex/gvm)<br>
+2. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
 3. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
-4. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
-5. ⬆️ Pushed undefined commit(s) to [the-yex/wechat-ilink-sdk](https://github.com/the-yex/wechat-ilink-sdk)<br>
+4. ✌️ Released [v1.2.1](https://github.com/the-yex/gvm/releases/tag/v1.2.1) in [the-yex/gvm](https://github.com/the-yex/gvm)<br>
+5. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
