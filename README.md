@@ -218,7 +218,6 @@ To enable Spotify integration:
 2. ✌️ Released [v1.3.0](https://github.com/the-yex/gvm/releases/tag/v1.3.0) in [the-yex/gvm](https://github.com/the-yex/gvm)<br>
 3. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
 4. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
-5. ✌️ Released [v1.2.1](https://github.com/the-yex/gvm/releases/tag/v1.2.1) in [the-yex/gvm](https://github.com/the-yex/gvm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
