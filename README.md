@@ -214,10 +214,10 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [the-yex/svoice](https://github.com/the-yex/svoice) from [facebookresearch/svoice](https://github.com/facebookresearch/svoice)<br>
-2. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
-3. ✌️ Released [v1.3.0](https://github.com/the-yex/gvm/releases/tag/v1.3.0) in [the-yex/gvm](https://github.com/the-yex/gvm)<br>
-4. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
+1. ❗️ Opened issue [#552](https://github.com/cita-777/metapi/issues/552) in [cita-777/metapi](https://github.com/cita-777/metapi)<br>
+2. 🔱 Forked [the-yex/svoice](https://github.com/the-yex/svoice) from [facebookresearch/svoice](https://github.com/facebookresearch/svoice)<br>
+3. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
+4. ✌️ Released [v1.3.0](https://github.com/the-yex/gvm/releases/tag/v1.3.0) in [the-yex/gvm](https://github.com/the-yex/gvm)<br>
 5. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
 <!--RECENT_ACTIVITY:end-->
 
