@@ -216,7 +216,6 @@ To enable Spotify integration:
 <!--RECENT_ACTIVITY:start-->
 1. ❗️ Opened issue [#552](https://github.com/cita-777/metapi/issues/552) in [cita-777/metapi](https://github.com/cita-777/metapi)<br>
 2. 🔱 Forked [the-yex/svoice](https://github.com/the-yex/svoice) from [facebookresearch/svoice](https://github.com/facebookresearch/svoice)<br>
-3. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
