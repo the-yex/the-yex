@@ -214,7 +214,8 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#552](https://github.com/cita-777/metapi/issues/552) in [cita-777/metapi](https://github.com/cita-777/metapi)<br>
+1. ❗️ Opened issue [#11](https://github.com/cancelGuMu/webot/issues/11) in [cancelGuMu/webot](https://github.com/cancelGuMu/webot)<br>
+2. ❗️ Opened issue [#552](https://github.com/cita-777/metapi/issues/552) in [cita-777/metapi](https://github.com/cita-777/metapi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
