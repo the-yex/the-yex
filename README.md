@@ -214,7 +214,9 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#11](https://github.com/cancelGuMu/webot/issues/11) in [cancelGuMu/webot](https://github.com/cancelGuMu/webot)<br>
+1. ❗️ Opened issue [#33](https://github.com/HKUDS/FastCode/issues/33) in [HKUDS/FastCode](https://github.com/HKUDS/FastCode)<br>
+2. ⭐ Starred [HKUDS/FastCode](https://github.com/HKUDS/FastCode)<br>
+3. ❗️ Opened issue [#11](https://github.com/cancelGuMu/webot/issues/11) in [cancelGuMu/webot](https://github.com/cancelGuMu/webot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
