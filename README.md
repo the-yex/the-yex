@@ -217,8 +217,6 @@ To enable Spotify integration:
 1. ⭐ Starred [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill)<br>
 2. 🔱 Forked [the-yex/adk-go](https://github.com/the-yex/adk-go) from [google/adk-go](https://github.com/google/adk-go)<br>
 3. ⭐ Starred [google/adk-go](https://github.com/google/adk-go)<br>
-4. ❗️ Opened issue [#33](https://github.com/HKUDS/FastCode/issues/33) in [HKUDS/FastCode](https://github.com/HKUDS/FastCode)<br>
-5. ⭐ Starred [HKUDS/FastCode](https://github.com/HKUDS/FastCode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
