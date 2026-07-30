@@ -215,8 +215,6 @@ To enable Spotify integration:
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill)<br>
-2. 🔱 Forked [the-yex/adk-go](https://github.com/the-yex/adk-go) from [google/adk-go](https://github.com/google/adk-go)<br>
-3. ⭐ Starred [google/adk-go](https://github.com/google/adk-go)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
