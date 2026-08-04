@@ -214,7 +214,8 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill)<br>
+1. ❗️ Opened issue [#83706](https://github.com/anthropics/claude-code/issues/83706) in [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+2. ⭐ Starred [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
