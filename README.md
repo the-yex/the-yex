@@ -214,7 +214,11 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#83706](https://github.com/anthropics/claude-code/issues/83706) in [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+1. ⬆️ Pushed undefined commit(s) to [the-yex/homebrew-tap](https://github.com/the-yex/homebrew-tap)<br>
+2. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
+3. ✌️ Released [v1.4.2](https://github.com/the-yex/gvm/releases/tag/v1.4.2) in [the-yex/gvm](https://github.com/the-yex/gvm)<br>
+4. ⬆️ Pushed undefined commit(s) to [the-yex/homebrew-tap](https://github.com/the-yex/homebrew-tap)<br>
+5. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
