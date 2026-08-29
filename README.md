@@ -214,11 +214,11 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [the-yex/homebrew-tap](https://github.com/the-yex/homebrew-tap)<br>
-2. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
-3. ✌️ Released [v1.4.2](https://github.com/the-yex/gvm/releases/tag/v1.4.2) in [the-yex/gvm](https://github.com/the-yex/gvm)<br>
-4. ⬆️ Pushed undefined commit(s) to [the-yex/homebrew-tap](https://github.com/the-yex/homebrew-tap)<br>
-5. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
+1. 🔱 Forked [the-yex/StreamCap](https://github.com/the-yex/StreamCap) from [ihmily/StreamCap](https://github.com/ihmily/StreamCap)<br>
+2. 🔱 Forked [the-yex/DouyinLiveRecorder](https://github.com/the-yex/DouyinLiveRecorder) from [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)<br>
+3. ⬆️ Pushed undefined commit(s) to [the-yex/homebrew-tap](https://github.com/the-yex/homebrew-tap)<br>
+4. ⬆️ Pushed undefined commit(s) to [the-yex/gvm](https://github.com/the-yex/gvm)<br>
+5. ✌️ Released [v1.4.2](https://github.com/the-yex/gvm/releases/tag/v1.4.2) in [the-yex/gvm](https://github.com/the-yex/gvm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
