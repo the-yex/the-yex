@@ -215,8 +215,6 @@ To enable Spotify integration:
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Alcova-AI/adk-models-go](https://github.com/Alcova-AI/adk-models-go)<br>
-2. 🔱 Forked [the-yex/StreamCap](https://github.com/the-yex/StreamCap) from [ihmily/StreamCap](https://github.com/ihmily/StreamCap)<br>
-3. 🔱 Forked [the-yex/DouyinLiveRecorder](https://github.com/the-yex/DouyinLiveRecorder) from [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
