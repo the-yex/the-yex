@@ -214,7 +214,6 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Alcova-AI/adk-models-go](https://github.com/Alcova-AI/adk-models-go)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
