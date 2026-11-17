@@ -214,6 +214,11 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ✔️ Closed issue [#6608](https://github.com/vectorize-io/hindsight/issues/6608) in [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
+2. ❗️ Opened issue [#6608](https://github.com/vectorize-io/hindsight/issues/6608) in [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
+3. ❌ Closed PR [#1](undefined) in [the-yex/hindsight](https://github.com/the-yex/hindsight)<br>
+4. 💪 Opened PR [#1](undefined) in [the-yex/hindsight](https://github.com/the-yex/hindsight)<br>
+5. 🔱 Forked [the-yex/hindsight](https://github.com/the-yex/hindsight) from [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
