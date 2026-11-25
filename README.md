@@ -214,11 +214,11 @@ To enable Spotify integration:
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#6608](https://github.com/vectorize-io/hindsight/issues/6608) in [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
-2. ❗️ Opened issue [#6608](https://github.com/vectorize-io/hindsight/issues/6608) in [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
-3. ❌ Closed PR [#1](undefined) in [the-yex/hindsight](https://github.com/the-yex/hindsight)<br>
-4. 💪 Opened PR [#1](undefined) in [the-yex/hindsight](https://github.com/the-yex/hindsight)<br>
-5. 🔱 Forked [the-yex/hindsight](https://github.com/the-yex/hindsight) from [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
+1. 🔱 Forked [the-yex/agent_learning](https://github.com/the-yex/agent_learning) from [Haozhe-Xing/agent_learning](https://github.com/Haozhe-Xing/agent_learning)<br>
+2. ✔️ Closed issue [#6608](https://github.com/vectorize-io/hindsight/issues/6608) in [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
+3. ❗️ Opened issue [#6608](https://github.com/vectorize-io/hindsight/issues/6608) in [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
+4. ❌ Closed PR [#1](undefined) in [the-yex/hindsight](https://github.com/the-yex/hindsight)<br>
+5. 💪 Opened PR [#1](undefined) in [the-yex/hindsight](https://github.com/the-yex/hindsight)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
